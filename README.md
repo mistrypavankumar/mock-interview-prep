@@ -87,12 +87,19 @@ Create a new file named `.env.local` in the root of your project and add the fol
 
 ```env
 
-FIREBASE_PROJECT_ID="your-project-id"
-FIREBASE_PRIVATE_KEY="your-private-key"
-FIREBASE_CLIENT_EMAIL="your-client-email"
 GOOGLE_GENERATIVE_AI_API_KEY="your-ai-key"
 NEXT_PUBLIC_VAPI_WEB_TOKEN="your-vapi-web-token"
 NEXT_PUBLIC_VAPI_WORKFLOW_ID="your-vapi-workflow-id"
+
+FIREBASE_PROJECT_ID="your-project-id"
+FIREBASE_PRIVATE_KEY="your-private-key"
+FIREBASE_CLIENT_EMAIL="your-client-email"
+FIREBASE_API_KEY="your-api-key"
+FIREBASE_AUTH_DOMAIN="your-auth-domain"
+FIREBASE_STOREAGE_BUCKET="your-storage-bucket"
+FIREBASE_MESSAGING_SENDER_ID="your-messagin-sender-id"
+FIREBASE_APP_ID="your-app-id"
+FIREBASE_MEASUREMENT_ID="your-measurement"
 
 ```
 
