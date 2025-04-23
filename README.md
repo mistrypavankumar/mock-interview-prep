@@ -83,25 +83,25 @@ npm install
 
 **Set Up Environment Variables**
 
-Create a new file named `.env.local` in the root of your project and add the following content:
+Create a new file named `.env.local` in the root of your project and add the following content: [For more](https://nextjs.org/docs/pages/building-your-application/configuring/environment-variables)
 
 ```env
 
-GOOGLE_GENERATIVE_AI_API_KEY="your-ai-key"
-NEXT_PUBLIC_VAPI_WEB_TOKEN="your-vapi-web-token"
-NEXT_PUBLIC_VAPI_WORKFLOW_ID="your-vapi-workflow-id"
+GOOGLE_GENERATIVE_AI_API_KEY=
+NEXT_PUBLIC_VAPI_WEB_TOKEN=
+NEXT_PUBLIC_VAPI_WORKFLOW_ID=
 
-FIREBASE_PROJECT_ID="your-project-id"
-FIREBASE_PRIVATE_KEY="your-private-key"
-FIREBASE_CLIENT_EMAIL="your-client-email"
+FIREBASE_PROJECT_ID=
+FIREBASE_PRIVATE_KEY=
+FIREBASE_CLIENT_EMAIL=
 
-NEXT_PUBLIC_FIREBASE_PROJECT_ID="your-project-id"
-NEXT_PUBLIC_FIREBASE_API_KEY="your-api-key"
-NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN="your-auth-domain"
-NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET="your-storage-bucket"
-NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID="your-messagin-sender-id"
-NEXT_PUBLIC_FIREBASE_APP_ID="your-app-id"
-NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID="your-measurement"
+NEXT_PUBLIC_FIREBASE_PROJECT_ID=
+NEXT_PUBLIC_FIREBASE_API_KEY=
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=
+NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=
+NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=
+NEXT_PUBLIC_FIREBASE_APP_ID=
+NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID=
 
 ```
 
