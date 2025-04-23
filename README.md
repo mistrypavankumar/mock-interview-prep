@@ -91,6 +91,7 @@ GOOGLE_GENERATIVE_AI_API_KEY="your-ai-key"
 NEXT_PUBLIC_VAPI_WEB_TOKEN="your-vapi-web-token"
 NEXT_PUBLIC_VAPI_WORKFLOW_ID="your-vapi-workflow-id"
 
+FIREBASE_PROJECT_ID="your-project-id"
 FIREBASE_PRIVATE_KEY="your-private-key"
 FIREBASE_CLIENT_EMAIL="your-client-email"
 
