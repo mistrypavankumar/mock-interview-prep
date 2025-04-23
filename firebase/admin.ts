@@ -15,11 +15,6 @@ const initFirebaseAdmin = () => {
     });
   }
 
-  console.log(
-    process.env.FIREBASE_PROJECT_ID,
-    process.env.FIREBASE_CLIENT_EMAIL
-  );
-
   return {
     auth: getAuth(),
     db: getFirestore(),
