@@ -91,15 +91,16 @@ GOOGLE_GENERATIVE_AI_API_KEY="your-ai-key"
 NEXT_PUBLIC_VAPI_WEB_TOKEN="your-vapi-web-token"
 NEXT_PUBLIC_VAPI_WORKFLOW_ID="your-vapi-workflow-id"
 
-FIREBASE_PROJECT_ID="your-project-id"
 FIREBASE_PRIVATE_KEY="your-private-key"
 FIREBASE_CLIENT_EMAIL="your-client-email"
-FIREBASE_API_KEY="your-api-key"
-FIREBASE_AUTH_DOMAIN="your-auth-domain"
-FIREBASE_STOREAGE_BUCKET="your-storage-bucket"
-FIREBASE_MESSAGING_SENDER_ID="your-messagin-sender-id"
-FIREBASE_APP_ID="your-app-id"
-FIREBASE_MEASUREMENT_ID="your-measurement"
+
+NEXT_PUBLIC_FIREBASE_PROJECT_ID="your-project-id"
+NEXT_PUBLIC_FIREBASE_API_KEY="your-api-key"
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN="your-auth-domain"
+NEXT_PUBLIC_FIREBASE_STOREAGE_BUCKET="your-storage-bucket"
+NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID="your-messagin-sender-id"
+NEXT_PUBLIC_FIREBASE_APP_ID="your-app-id"
+NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID="your-measurement"
 
 ```
 
